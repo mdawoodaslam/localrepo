@@ -1,4 +1,17 @@
 # This is my local repo
+## feature1git 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>My Local Repo</title>
+    </head>
+    <body>
+    <h1> This is my local repo </h1>
+    <p> This is my local repo </p>
+    </body>
+</html>
+
 ## This is the new branch Feature1 lets seee how this goes
 
 
@@ -22,4 +35,3 @@
 - `git checkout <branch_name>` # Switch to the branch
 - `git merge <branch_name>` # Merge the branch to master
 - `git branch -d <branch_name>` # Delete the branchS
-This is the new branch Feature1 
