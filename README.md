@@ -1,4 +1,7 @@
 # This is my local repo
+## This is the new branch Feature1 lets seee how this goes
+
+
  <!-- I am Learning Git  -->
 ## Git Commands:
 - `git init` # Initialize the git repo
@@ -19,3 +22,4 @@
 - `git checkout <branch_name>` # Switch to the branch
 - `git merge <branch_name>` # Merge the branch to master
 - `git branch -d <branch_name>` # Delete the branchS
+This is the new branch Feature1 
